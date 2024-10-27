@@ -88,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivityForResult(intent, 12);
             }
         });
-        //1
+
         // Code for the "Prediction Button"
         predictBtn.setOnClickListener(new View.OnClickListener() {
             @SuppressLint("SetTextI18n")
